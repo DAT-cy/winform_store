@@ -1,0 +1,29 @@
+﻿# Thư mục tạm của Visual Studio
+.vs/
+
+# Thư mục build
+bin/
+obj/
+
+# Tệp tạm thời
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Tệp log
+*.log
+
+# Tệp tạm của hệ điều hành
+*.DS_Store
+Thumbs.db
+
+# Tệp lock của NuGet
+project.lock.json
+project.fragment.lock.json
+
+# Tệp xuất bản
+*.publishsettings
+
+# Tệp tạm của IDE
+.idea/
