@@ -90,7 +90,7 @@
             lblWelcome.Name = "lblWelcome";
             lblWelcome.Size = new Size(220, 37);
             lblWelcome.TabIndex = 1;
-            lblWelcome.Text = "Chao Anh Minh";
+            lblWelcome.Text = "Chào mừng bạn";
             lblWelcome.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // picLogo
